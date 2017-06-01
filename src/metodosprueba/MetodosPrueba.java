@@ -10,5 +10,8 @@ package metodosprueba;
  * @author Freddy
  */
 public class MetodosPrueba {
+    public int suma(){
+        return 5+7;
+    }
     
 }
